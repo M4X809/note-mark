@@ -1,6 +1,7 @@
 # note-mark
 ```diff
-- This is just a repo for Auto Updating
--  NOT for pulic use.
+- A Note Taking App
+- NOT for pulic use.
+- In Early development!
 
 ```
